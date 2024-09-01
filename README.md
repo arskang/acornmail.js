@@ -15,7 +15,6 @@
 + [Componentes](#componentes)
 + [Tipos](#tipos)
 + [Estilos](#estilos)
-+ [Ejemplos reales](#ejemplos-reales)
 
 #### Librerías
 Proyecto original:
